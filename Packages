@@ -1,12 +1,13 @@
-Package: com.lovejb.apppercent
+Package: com.lovejb.a
 Name: App Percent - LoveJB - LoveJB - LoveJB
-Version: 2.0.0
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Hiển thị % khi Tải ứng dụng và Thông báo tải từ Appstore
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: pxcex <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
+Section: Themes
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.lovejb.apppercent_2.0.0_iphoneos-arm.deb
 Size: 23050	
 MD5sum: e22769c81945f0521ac60b91dd5c744b  
+Depiction: https://cngtvn.github.io/description.html?id=lovejb.github.io
