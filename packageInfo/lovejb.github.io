@@ -1,4 +1,8 @@
 {
-	"desc_long": "Hiện chưa có mô tả!!!<br><br>Vui lòng đợi cập nhật...",
-	"screenshot": "<div style='text-align:center;'><a href='Link ảnh' target='_blank'><img width=95% src='absn'/></a><br></div>",
+	"name": "<strong>Boxy 3 (iOS 11)</strong>",
+	"desc_short": "Tùy chỉnh bố cục sắp xếp các icon tại màn hình chính và nhiều hơn nữa.",
+	"desc_long": "Tùy chỉnh trong cài đặt.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>3.2.5-5+debug</strong><br>+ Hỗ trợ iOS 11.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/WnDkpd3.png' target='_blank'><img width=95% src="email.png"/></a><br></div>",
 }
