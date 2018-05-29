@@ -1,0 +1,32 @@
+
+Package: com.lovejbbeta.activatorviet
+Name: Activator VietSub
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bản Tiếng Việt cho Activator
+Depiction: https://lovejb.github.io/description.html?id=com.lovejbbeta.activatorviet
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Size:9220	
+MD5:35db0715a00f4d7d92c167aacedff889  
+Filename: ./debs/com.lovejbbeta.activatorviet_1.0_iphoneos-arm.deb
+SHA1:ddce93224cb8530d8eef1b7674b319fc0c16100c  
+SHA256:0d684bfb07f8ad25f349da9a2622f8558c379a76d74e74fab94d6117e8982a59  
+
+Package: com.lovejbbeta.activatorviet
+Name: Activator VietSub
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Bản Tiếng Việt cho Activator
+Depiction: https://lovejb.github.io/description.html?id=com.lovejbbeta.activatorviet
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Size:9222	
+MD5:f42b4fd30f20e7a65afcea24b5272d97  
+Filename: ./debs/com.lovejbbeta.activatorviet_1.1_iphoneos-arm.deb
+SHA1:bbc3d6555ffb1d18c8eeb9adff1e506ca96248c2  
+SHA256:307832650f7d34671db38cc97626907f673f0243d3cde66abb3eb45ab20f45e0  
