@@ -1,3 +1,17 @@
+Package: com.lovejb.d
+Name: tesstggg
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.d
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Size:59252	
+MD5:73ac1f2ff6ce516a251b491493aa02e6  
+Filename: ./debs/com.lovejb.d_1.0.3_iphoneos-arm.deb
+SHA1:df451d1a243791f0597adf06e8eedbf078c4ab3d  
+SHA256:5874be31b560e7ab101f933b249041e568e2a0e80b0889c99dae116b1481282d  
 
 Package: com.lovejbbeta.activatorviet
 Name: Activator VietSub
@@ -10,10 +24,10 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
 Size:9220	
-MD5:35db0715a00f4d7d92c167aacedff889  
+MD5:9d316cab51c2c8f187fcf3758912e59c  
 Filename: ./debs/com.lovejbbeta.activatorviet_1.0_iphoneos-arm.deb
-SHA1:ddce93224cb8530d8eef1b7674b319fc0c16100c  
-SHA256:0d684bfb07f8ad25f349da9a2622f8558c379a76d74e74fab94d6117e8982a59  
+SHA1:fa2277309dc229a368d88f428ff4b08715de5fc5  
+SHA256:bee252872e5268593879de390d505c4e69b318a38dcc2f2dd41f6baa2a0cf95b  
 
 Package: com.lovejbbeta.activatorviet
 Name: Activator VietSub
@@ -26,7 +40,7 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
 Size:9222	
-MD5:f42b4fd30f20e7a65afcea24b5272d97  
+MD5:de591ac8355dd3737b925f72dc5cba5c  
 Filename: ./debs/com.lovejbbeta.activatorviet_1.1_iphoneos-arm.deb
-SHA1:bbc3d6555ffb1d18c8eeb9adff1e506ca96248c2  
-SHA256:307832650f7d34671db38cc97626907f673f0243d3cde66abb3eb45ab20f45e0  
+SHA1:c8ecaf791a8d6c853fa2c442c78b08e97175425d  
+SHA256:c6ea7beb032ca83d898c578ebb84f3702dad20b7008c73d7c6ca0ae2d0de65b8  
