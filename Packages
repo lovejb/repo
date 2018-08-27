@@ -1,46 +1,16 @@
-Package: com.lovejb.d
-Name: tesstggg
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.d
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Size:59252	
-MD5:73ac1f2ff6ce516a251b491493aa02e6  
-Filename: ./debs/com.lovejb.d_1.0.3_iphoneos-arm.deb
-SHA1:df451d1a243791f0597adf06e8eedbf078c4ab3d  
-SHA256:5874be31b560e7ab101f933b249041e568e2a0e80b0889c99dae116b1481282d  
 
-Package: com.lovejbbeta.activatorviet
-Name: Activator VietSub
-Version: 1.0
+Package: com.synnyg.dhelper
+Name: DHelper
+Version: 1.0.2
 Architecture: iphoneos-arm
-Description: Bản Tiếng Việt cho Activator
-Depiction: https://lovejb.github.io/description.html?id=com.lovejbbeta.activatorviet
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Description: A complete download manager
+Depiction: https://lovejb.github.io/description.html?id=com.synnyg.dhelper
+Author: SynnyG
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, libactivator (>= 1.8.3)
-Size:9220	
-MD5:9d316cab51c2c8f187fcf3758912e59c  
-Filename: ./debs/com.lovejbbeta.activatorviet_1.0_iphoneos-arm.deb
-SHA1:fa2277309dc229a368d88f428ff4b08715de5fc5  
-SHA256:bee252872e5268593879de390d505c4e69b318a38dcc2f2dd41f6baa2a0cf95b  
-
-Package: com.lovejbbeta.activatorviet
-Name: Activator VietSub
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Bản Tiếng Việt cho Activator
-Depiction: https://lovejb.github.io/description.html?id=com.lovejbbeta.activatorviet
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, libactivator (>= 1.8.3)
-Size:9222	
-MD5:de591ac8355dd3737b925f72dc5cba5c  
-Filename: ./debs/com.lovejbbeta.activatorviet_1.1_iphoneos-arm.deb
-SHA1:c8ecaf791a8d6c853fa2c442c78b08e97175425d  
-SHA256:c6ea7beb032ca83d898c578ebb84f3702dad20b7008c73d7c6ca0ae2d0de65b8  
+Depends: firmware (>= 9.0)
+Size:5554254	
+MD5:3c5f3ed7e29cc3142cde0b4643939125  
+Filename: ./debs/com.synnyg.dhelper_1.0.2_iphoneos-arm.deb
+SHA1:bed0a03208ff5c6ea29bd0466df43066d23366d6  
+SHA256:13a71b0338a01c3540beeed13316e624c5ce8e12e5a46d211e45656e3e1c1ee3  
