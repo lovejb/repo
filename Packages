@@ -1,4 +1,3 @@
-
 Package: com.synnyg.dhelper
 Name: DHelper
 Version: 1.0.2
@@ -14,3 +13,51 @@ MD5:3c5f3ed7e29cc3142cde0b4643939125
 Filename: ./debs/com.synnyg.dhelper_1.0.2_iphoneos-arm.deb
 SHA1:bed0a03208ff5c6ea29bd0466df43066d23366d6  
 SHA256:13a71b0338a01c3540beeed13316e624c5ce8e12e5a46d211e45656e3e1c1ee3  
+
+Package: com.synnyg.dhelper
+Name: DHelper
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: My Repo Of Fah ••• A complete download manager
+Pre-depends:
+Author: SynnyG
+Maintainer: LoveJB
+Section: Tweaks
+Depends: firmware (>= 9.0)
+Size:5554246	
+MD5:4c56eacac4b0d7b5877a75877df82d7e  
+Filename: ./debs/com.synnyg.dhelper_1.0.2_iphoneos-arm.deb
+SHA1:00857b3c07b01d35b7f89ba3c74a1c843b71f969  
+SHA256:9f95b0564b974d1d93a015675342752b14e734c6d68269a05c04d61139e2fdba  
+
+Package: com.synnyg.backupaz3
+Name: BackupAZ 3 (iOS 10 - 11)
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: My Repo Of Fah ••• Backup lại dữ liệu máy bạn!
+Pre-depends:
+Author: SynnyG
+Maintainer: LoveJB
+Section: Utilities
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Size:5170210	
+MD5:a847023a169ae68efaaa6fac9c002979  
+Filename: ./debs/com.synnyg.backupaz3_1.0-1_iphoneos-arm.deb
+SHA1:6dfb921551c82a1d77c4acae45715f48599d0c36  
+SHA256:1d8a7c17aea4835ae7c8d89fabc2d496703183a52213266ba6a5fab7bff1bb94  
+
+Package: com.lovejb.jbme10webclip
+Name: jBmE (iOS10) Webclip
+Version: 1.0
+Architecture: iphoneos-arm
+Description: My Repo Of Fah ••• My Repo Of Fah ••• •Nguyễn Văn Hà• Re-Active iOS10-10.3 Jailbreak Offline
+Pre-depends:
+Author: Nguyễn Văn Hà
+Maintainer: LoveJB
+Section: System
+Depends: mobilesubstrate
+Size:90500	
+MD5:328d3942ea3b8e5541921b14ceeb5882  
+Filename: ./debs/com.lovejb.jbme10webclip_1.0_iphoneos-arm.deb
+SHA1:8494d60f7ef7e4084396fe9c649dd23806905402  
+SHA256:b29cf7f1c364140b32b9645435966dfb4329e0bfca80b1e186c38e955c94ea96  
