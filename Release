@@ -1,16 +1,16 @@
-Origin: LoveJB • My Repo •
-Label: My Repo
-Suite: stable
+Origin: i Lve JB 👷
+Label: LveJB
+Origin: i Lve JB 👷
 Version: 1.0
 Codename: LveJB
 Architecture: iphoneos-arm
 Components: main
-Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Nguồn cá nhân thuộc sở hữu riêng!!
+Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Luôn sưu tầm Tweak hay và tốt nhất cho IOS của bạn!!
 
 MD5sum:
 
-2ea77a471c36555135ff733bf486479b  
-2149	Packages
+5ccca78dc1f99a6d249d0e75fd0e45d4  
+2973	Packages
 
-2ec924f55b730e23484a5a1f704876ba  
-1164	Packages.bz2
+19a9536c36dcaa0af3e24513edcb50fe  
+1519	Packages.bz2

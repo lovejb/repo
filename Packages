@@ -61,3 +61,19 @@ MD5:328d3942ea3b8e5541921b14ceeb5882
 Filename: ./debs/com.lovejb.jbme10webclip_1.0_iphoneos-arm.deb
 SHA1:8494d60f7ef7e4084396fe9c649dd23806905402  
 SHA256:b29cf7f1c364140b32b9645435966dfb4329e0bfca80b1e186c38e955c94ea96  
+
+Package: applebetas.ios.tweak.willow
+Name: Ultrasound
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The volume HUD you deserve. ‚Äî Since iOS 7, the volume HUD has been abysmal. Blocking a large portion of the screen when shown, requiring you to use the buttons to quickly adjust, and taking a long time to dismiss, it is one of the most comm
+Depiction: https://lovejb.github.io/description.html?id=applebetas.ios.tweak.willow
+Author: AppleBetas
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Size:553902	
+MD5:395d955fa362b1253a20667010a1e4df  
+Filename: ./debs/applebetas.ios.tweak.willow_1.0_iphoneos-arm.deb
+SHA1:7cfbb54ded6bfc5a52d125916d01b3e6c69379b9  
+SHA256:282b3efb9b3debef407dadfc9acdf276742ab72b6a0a9933c34835596f3dba6e  
