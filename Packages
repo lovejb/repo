@@ -1,79 +1,28 @@
-Package: com.synnyg.dhelper
-Name: DHelper
-Version: 1.0.2
-Architecture: iphoneos-arm
-Description: A complete download manager
-Depiction: https://lovejb.github.io/description.html?id=com.synnyg.dhelper
-Author: SynnyG
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 9.0)
-Size:5554254	
-MD5:3c5f3ed7e29cc3142cde0b4643939125  
-Filename: ./debs/com.synnyg.dhelper_1.0.2_iphoneos-arm.deb
-SHA1:bed0a03208ff5c6ea29bd0466df43066d23366d6  
-SHA256:13a71b0338a01c3540beeed13316e624c5ce8e12e5a46d211e45656e3e1c1ee3  
 
-Package: com.synnyg.dhelper
-Name: DHelper
-Version: 1.0.2
+Package: com.fahlnbg.source
+Name: Nguồn Backup - iPhone Of Fah [6S - 12.0]
+Version: 2019-04-01
 Architecture: iphoneos-arm
-Description: My Repo Of Fah ••• A complete download manager
-Pre-depends:
-Author: SynnyG
-Maintainer: LoveJB
-Section: Tweaks
-Depends: firmware (>= 9.0)
-Size:5554246	
-MD5:4c56eacac4b0d7b5877a75877df82d7e  
-Filename: ./debs/com.synnyg.dhelper_1.0.2_iphoneos-arm.deb
-SHA1:00857b3c07b01d35b7f89ba3c74a1c843b71f969  
-SHA256:9f95b0564b974d1d93a015675342752b14e734c6d68269a05c04d61139e2fdba  
+Description: 📦 Backup Nguồn  
+Maintainer: @fahlnbg
+Author: @fahlnbg
+Section: Source Backup - iOS 12.0
+MD5: dpkg-deb: building package 'com.fahlnbg.source' in 'source.deb'.
+474f35d830574723c72bef716973f666
 
-Package: com.synnyg.backupaz3
-Name: BackupAZ 3 (iOS 10 - 11)
-Version: 1.0-1
-Architecture: iphoneos-arm
-Description: My Repo Of Fah ••• Backup lại dữ liệu máy bạn!
-Pre-depends:
-Author: SynnyG
-Maintainer: LoveJB
-Section: Utilities
-Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
-Size:5170210	
-MD5:a847023a169ae68efaaa6fac9c002979  
-Filename: ./debs/com.synnyg.backupaz3_1.0-1_iphoneos-arm.deb
-SHA1:6dfb921551c82a1d77c4acae45715f48599d0c36  
-SHA256:1d8a7c17aea4835ae7c8d89fabc2d496703183a52213266ba6a5fab7bff1bb94  
+Filename: ./debs/com.fahlnbg.source_2019-04-01.deb
 
-Package: com.lovejb.jbme10webclip
-Name: jBmE (iOS10) Webclip
-Version: 1.0
+Package: com.fahlnbg.tweak
+Name: Tweak Backup
+Version: 2019-04-01
 Architecture: iphoneos-arm
-Description: My Repo Of Fah ••• My Repo Of Fah ••• •Nguyễn Văn Hà• Re-Active iOS10-10.3 Jailbreak Offline
-Pre-depends:
-Author: Nguyễn Văn Hà
-Maintainer: LoveJB
-Section: System
-Depends: mobilesubstrate
-Size:90500	
-MD5:328d3942ea3b8e5541921b14ceeb5882  
-Filename: ./debs/com.lovejb.jbme10webclip_1.0_iphoneos-arm.deb
-SHA1:8494d60f7ef7e4084396fe9c649dd23806905402  
-SHA256:b29cf7f1c364140b32b9645435966dfb4329e0bfca80b1e186c38e955c94ea96  
+Description: 📦 Backup Tweak  
+Depends:  gsc.main-screen-pitch , applist , shell-cmds , gsc.display-mirroring , gsc.has-thin-bezel , gsc.microphone , libapt-pkg5.0 , libnghttp2 , unrar , net.angelxwind.karenlocalizer , gsc.panorama-camera-capability , jailbreak-resources , gsc.device-supports-navigation , gsc.cellular-telephony-capability , firmware-sbin , gsc.proximity-sensor , gsc.gps , gsc.air-drop-capability , com.repo.xarold.com.showtouch , lz4 , gsc.dictation , com.modmyi.libswift4 , ncurses5-libs , libtasn1 , gsc.personal-hotspot , gsc.wifi , gsc.stand-alone-contacts , gsc.accessibility , apt7 , base , com.repo.xarold.com.icleanerpro , cy+cpu.arm64 , com.julioverne.sbcard , gsc.3-gvenice , gsc.rear-camera-capability , gsc.allow-you-tube-plugin , gsc.contains-cellular-radio , grep , libssh2 , libunistring , gsc.encode-aac , gsc.youtube , gsc.hidpi , gsc.unified-ipod , com.chpwn.iconsupport , gsc.forward-camera-capability , gsc.main-screen-width , gsc.auto-focus-camera , me.nepeta.notifica , libplist , com.lovejb.bytafont3ios11 , com.muirey03.powermodule , debianutils , com.pulandres.no2theft2crk , com.ahmedbafkir.dleasy , libapt , me.nepeta.libnepeta , curl , gettext , bash , com.opa334.ccsupport , com.ruler225.videohud , gsc.ambient-light-sensor , gsc.wi-fi , gsc.opengles-2 , gsc.homescreen-wallpaper , libassuan , gsc.has-baseband , gsc.regional-behavior-shutter-click , mobilesubstrate , com.linusyang.localeutf8 , gsc.assistant , cy+kernel.darwin , gzip , p11-kit , firmware , com.pulandres.pasithea2 , gsc.tv-out-crossfade , org.thebigboss.repo.icons , gsc.venice , expat , uikittools , gsc.regional-behavior-n-t-s-c , org.thebigboss.datameter , gsc.device-supports3-d-imagery , system-cmds , gsc.mms , gsc.still-camera , gsc.bluetooth , cydia-lproj , gnupg , unzip , com.julioverne.goodwifi , gsc.video-camera , com.thuthuatjb.crackicleanerpro12 , gsc.peer-peer , gsc.multitasking , com.repo.xarold.com.inapp , gsc.device-supports9-pin , com.lovejb.2x2folder , gsc.cellular-data , gsc.ptp-large-files , libidn2 , trustinjector , signing-certificate , me.nepeta.selector , coreutils , file , gsc.allow-you-tube , gsc.additional-text-tones , darwintools , tar , nettle , gsc.camera-flash , libgpg-error , gsc.main-screen-scale , cydia , gsc.gyroscope , zip , jp.ashikase.techsupport , ws.hbang.common , com.kunderscore.avertas , bzip2 , apt-key , gsc.gas-gauge-battery , ncurses , cy+lib.corefoundation , gsc.main-screen-class , libksba , ca.kirara.voltage , gsc.hdr-image-capture , cy+model.iphone , gsc.volume-buttons , gsc.main-screen-height , com.saurik.substrate.safemode , com.iky1e.swipeselection-pro , gsc.rear-facing-camera , libgmp10 , ws.hbang.newterm2 , gsc.bluetooth-le , gsc.device-supports720p , org.thebigboss.libcolorpicker , gsc.device-supports3-d-maps , com.tigisoftware.filza , gsc.device-supports-tethering , gsc.voip , gsc.telephony , gsc.sms , gsc.photo-adjustments , com.thuthuatjb.hatiato , ru.rejail.limneosos , gsc.board-id , com.midnightchips.localhostssh , gsc.hd-video-capture , gsc.armv6 , gsc.device-supports1080p , gsc.telephony-maximum-generation , gsc.location-services , npth , p7zip , com.repo.xarold.com.appsyncunified , diskdev-cmds , libevent , gsc.load-thumbnails-while-scrolling , gsc.gamekit , gsc.chip-i-d , com.rpetrich.rocketbootstrap , coreutils-bin , gsc.magnetometer , gsc.any-telephony , ca.ndoizo.bolders , com.julioverne.ext3nder-installer , dpkg , gsc.device-supports-simplistic-road-mesh , essential , gsc.international-settings , com.midnightchips.ldrun , gsc.io-surface-backed-images , diffutils , gsc.has-s-e-p , xz , gnutls , jp.ashikase.libpackageinfo , apt1.4 , gsc.hw-encode-snapshots , lzma , gsc.battery-current-capacity , gsc.not-green-tea , gsc.voice-control , com.r333d.cylinder , gsc.watch-companion , gsc.shoebox , gsc.encrypted-data-partition , findutils , gsc.hardware-keyboard , gsc.displayport , gsc.ringer-switch , gsc.720p , com.lovejb.flex3beta3 , ca-certificates , gsc.accelerometer , com.repo.xarold.com.midevice , preferenceloader , gsc.u-i-parallax-capability , ldid , profile.d , gsc.hiccough-interval , gsc.has-spring-board , cy+os.ios , openssh , gsc.front-facing-camera , com.julioverne.cydown , git , gsc.fcc-logos-via-software , gsc.opengles-1 , com.jakeashacks.realcc , ru.rejail.jellyfish , readline , com.cannathea.afc2d-arm64 , gsc.signing-fuse , gsc.all-features , gsc.photo-stream , gsc.device-class-number , gcrypt , gsc.armv7 , sed , gsc.required-battery-level-for-software-update , libssl1.0 , berkeleydb
+Pre-Depends: com.fahlnbg.source
+Maintainer: @fahlnbg
+Author: @fahlnbg
+Section: Tweak Backup - iOS 12.0
+MD5: dpkg-deb: building package 'com.fahlnbg.tweak' in 'tweak.deb'.
+e97227596a4e56adbb628509a36e5eee
 
-Package: applebetas.ios.tweak.willow
-Name: Ultrasound
-Version: 1.0
-Architecture: iphoneos-arm
-Description: The volume HUD you deserve. ‚Äî Since iOS 7, the volume HUD has been abysmal. Blocking a large portion of the screen when shown, requiring you to use the buttons to quickly adjust, and taking a long time to dismiss, it is one of the most comm
-Depiction: https://lovejb.github.io/description.html?id=applebetas.ios.tweak.willow
-Author: AppleBetas
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Size:553902	
-MD5:395d955fa362b1253a20667010a1e4df  
-Filename: ./debs/applebetas.ios.tweak.willow_1.0_iphoneos-arm.deb
-SHA1:7cfbb54ded6bfc5a52d125916d01b3e6c69379b9  
-SHA256:282b3efb9b3debef407dadfc9acdf276742ab72b6a0a9933c34835596f3dba6e  
+Filename: ./debs/com.fahlnbg.tweak_2019-04-01.deb
