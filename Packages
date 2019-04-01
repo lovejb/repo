@@ -7,9 +7,7 @@ Description: 📦 Backup Nguồn
 Maintainer: @fahlnbg
 Author: @fahlnbg
 Section: Source Backup - iOS 12.0
-MD5: dpkg-deb: building package 'com.fahlnbg.source' in 'source.deb'.
-474f35d830574723c72bef716973f666
-
+MD5: ee46981f8acac8364f4f2ec3c886c108 
 Filename: ./debs/com.fahlnbg.source_2019-04-01.deb
 
 Package: com.fahlnbg.tweak
@@ -22,7 +20,5 @@ Pre-Depends: com.fahlnbg.source
 Maintainer: @fahlnbg
 Author: @fahlnbg
 Section: Tweak Backup - iOS 12.0
-MD5: dpkg-deb: building package 'com.fahlnbg.tweak' in 'tweak.deb'.
-e97227596a4e56adbb628509a36e5eee
-
+MD5: 5610521984508a33e3d4b4a146c07a73 
 Filename: ./debs/com.fahlnbg.tweak_2019-04-01.deb
